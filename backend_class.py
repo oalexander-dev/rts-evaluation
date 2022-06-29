@@ -1,6 +1,3 @@
-from tracemalloc import start
-
-
 class Backend:
     def aboveBelow(numbers: list, compVal: int) -> map:
         output = {
